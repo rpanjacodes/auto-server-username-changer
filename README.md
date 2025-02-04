@@ -1,1 +1,1 @@
-# server-username-changer
+# auto-server-username-changer
